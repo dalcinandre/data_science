@@ -17,7 +17,7 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, M
 ## Projetos:
 Lista de projetos em Jupyter Notebook:
 
-* **Em breve!!!:**
+* **Analisando dados do Aribnb:** - https://bityli.com/c39tO
 
 ---
 
